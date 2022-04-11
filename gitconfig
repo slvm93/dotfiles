@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sebastianlanducci@gmail.com
+	name = Sebastian Landucci
